@@ -1,0 +1,24 @@
+{
+  "name": "@zxcabs/vuex-promise-action-name-helper",
+  "version": "1.0.0",
+  "description": "vuex promise action name helper for vuex-promise-middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zxcabs/vuex-promise-action-name-helper.git"
+  },
+  "keywords": [
+    "vuex",
+    "promise",
+    "middleware"
+  ],
+  "author": "Evgeny Reznichenko <kusakyky@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zxcabs/vuex-promise-action-name-helper/issues"
+  },
+  "homepage": "https://github.com/zxcabs/vuex-promise-action-name-helper#readme"
+}
